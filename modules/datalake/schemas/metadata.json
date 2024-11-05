@@ -1,0 +1,58 @@
+[
+    {
+      "name": "overview",
+      "type": "STRING"
+    },
+    {
+      "name": "title",
+      "type": "STRING"
+    },
+    {
+      "name": "budget",
+      "type": "STRING"
+    },
+    {
+      "name": "genres",
+      "type": "STRING"
+    },
+    {
+      "name": "runtime",
+      "type": "STRING"
+    },
+    {
+      "name": "release_date",
+      "type": "TIMESTAMP"
+    },
+    {
+      "name": "revenue",
+      "type": "STRING"
+    },
+    {
+      "name": "original_language",
+      "type": "STRING"
+    },
+    {
+      "name": "vote_average",
+      "type": "STRING"
+    },
+    {
+      "name": "vote_count",
+      "type": "STRING"
+    },
+    {
+      "name": "spoken_languages",
+      "type": "STRING"
+    },
+    {
+      "name": "id",
+      "type": "STRING"
+    },
+    {
+      "name": "cast",
+      "type": "STRING"
+    },
+    {
+      "name": "ingestion_date",
+      "type": "TIMESTAMP"
+    }
+  ]
